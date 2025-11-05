@@ -107,19 +107,6 @@ Each project is designed to build your understanding step-by-step, covering ever
 
 <hr>
 
-<h2>🚀 Getting Started</h2>
-
-<ol>
-  <li><b>Clone this repository:</b><br>
-    <code>git clone https://github.com/your-username/spring-framework.git</code>
-  </li>
-  <li><b>Open your IDE:</b> (IntelliJ IDEA, Eclipse, or Spring Tool Suite)</li>
-  <li><b>Build with Maven:</b><br>
-    <code>mvn clean install</code>
-  </li>
-  <li><b>Run the application:</b><br>
-    <code>mvn spring-boot:run</code> or run from your IDE.</li>
-</ol>
 
 <hr>
 
@@ -139,8 +126,7 @@ Each project is designed to build your understanding step-by-step, covering ever
 
 <p>
   Developed and maintained by <b>Suvam</b>.<br>
-  🌐 <a href="https://github.com/your-username" target="_blank">GitHub Profile</a> |
-  💼 <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">LinkedIn</a>
+  
 </p>
 
 <hr>
